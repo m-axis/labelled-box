@@ -4,7 +4,7 @@ The web app helps track your packed boxes with help of QR codes.
 
 ## Steps to run the app
 1. open command line from project dir
-2. run the rake command
+2. run the following commands
   * bundle install
   * rake db:migrate
   * ruby app.rb
