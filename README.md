@@ -3,9 +3,9 @@ This repository contains the code to launch a web app which is free to use.
 The web app helps track your packed boxes with help of QR codes. 
 
 ## Steps to run the app
-1. Install the requires gems
-2. open command line from project dir
-3. run the rake command
+1. open command line from project dir
+2. run the rake command
+  * bundle install
   * rake db:migrate
   * ruby app.rb
 
